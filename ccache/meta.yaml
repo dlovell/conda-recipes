@@ -1,0 +1,11 @@
+package:
+  name: ccache
+  version: "3.2.4"
+
+source:
+  fn: ccache-3.2.4.tar.bz2
+  url: https://www.samba.org/ftp/ccache/ccache-3.2.4.tar.bz2
+
+about:
+  home: https://ccache.samba.org/
+  license: GPL 3
